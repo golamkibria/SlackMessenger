@@ -1,0 +1,6 @@
+/src/packages
+/src/.vs
+/src/SlackMessenger/obj
+/src/SlackMessenger/bin
+/src/SlackMessengerConsole/obj
+/src/SlackMessengerConsole/bin

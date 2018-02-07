@@ -11,6 +11,8 @@ namespace KNet.SlackMessengerConsole
         {
             try
             {
+                //Set 'slack.botUserApiToken' and 'slack.apiEndpoint' values in App.config
+
                 var container = CreateContainer();
 
                 TestThreadMessenger(container).Wait();
